@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/3945f816ea831b8af947633dbc97d2de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/ae4b09e9ebe40f0dc582994656bfcb9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/34345cc7460037533a3a6b1e46688c54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/a704fcb54265d52ef237c5a5751c8717/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/eccdfc72840fd79bbba68911255dddc3/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0019ac759bd37e74ffe94255ee65f449/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0585c829ff6098c341a786d88f1c3c1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/004a740de08b5a61e325b05f349ff5aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/bedcc8b87854a7e5481b14e7f54fd6b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5dd0495e9ab8840ce73965bd0a3e33ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/99dbdb25fe76bfe70b43424d64c859c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/99950374ea2d9943f25012f4242e744f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/760903405e239edb892ff5cc9ec321aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ac1ccc0754414df103fa01ac8a565de4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6cf98643b0ad511708e365daf3cde2bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f2e07552a1309d3a4ce85757a33c629d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/ce4edc1f892216ee459043634884848f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/dc903f553d1a1f3fdcb22645045b4112/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/79d551c6437db8fb92134943fafbad71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c56f521b6ac219181a813803b9f1796c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/58060dbf46f4b6b7ebc31625b1b76e1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/bb8a4ac44b9b98f0ba09b04a57937f56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/aa622973089fdcc47e6d9e4a3bf712f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8b1a569974f8d24d094c5295afbfbe9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fa8f4122c5c50124bce1a24efa770629/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/25d7837ebec806a808a288ee6dc2add8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/7d9960bd8ff71b9904e7d1089dd02277/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/492938a40566beb1c91833fbba00e205/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:11:5-39:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/a704fcb54265d52ef237c5a5751c8717/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/a704fcb54265d52ef237c5a5751c8717/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/eccdfc72840fd79bbba68911255dddc3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/eccdfc72840fd79bbba68911255dddc3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/ce4edc1f892216ee459043634884848f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/ce4edc1f892216ee459043634884848f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/dc903f553d1a1f3fdcb22645045b4112/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/dc903f553d1a1f3fdcb22645045b4112/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/ce4edc1f892216ee459043634884848f/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:26:9-28:55
+	android:value
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:27:13-58
+activity#com.example.varshakr.maps.MapsActivity
+ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/3945f816ea831b8af947633dbc97d2de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/3945f816ea831b8af947633dbc97d2de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/ae4b09e9ebe40f0dc582994656bfcb9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/ae4b09e9ebe40f0dc582994656bfcb9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/34345cc7460037533a3a6b1e46688c54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/34345cc7460037533a3a6b1e46688c54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/a704fcb54265d52ef237c5a5751c8717/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/a704fcb54265d52ef237c5a5751c8717/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/eccdfc72840fd79bbba68911255dddc3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/eccdfc72840fd79bbba68911255dddc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0019ac759bd37e74ffe94255ee65f449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0019ac759bd37e74ffe94255ee65f449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0585c829ff6098c341a786d88f1c3c1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0585c829ff6098c341a786d88f1c3c1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/004a740de08b5a61e325b05f349ff5aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/004a740de08b5a61e325b05f349ff5aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/bedcc8b87854a7e5481b14e7f54fd6b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/bedcc8b87854a7e5481b14e7f54fd6b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5dd0495e9ab8840ce73965bd0a3e33ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5dd0495e9ab8840ce73965bd0a3e33ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/99dbdb25fe76bfe70b43424d64c859c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/99dbdb25fe76bfe70b43424d64c859c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/99950374ea2d9943f25012f4242e744f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/99950374ea2d9943f25012f4242e744f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/760903405e239edb892ff5cc9ec321aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/760903405e239edb892ff5cc9ec321aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ac1ccc0754414df103fa01ac8a565de4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ac1ccc0754414df103fa01ac8a565de4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6cf98643b0ad511708e365daf3cde2bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6cf98643b0ad511708e365daf3cde2bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f2e07552a1309d3a4ce85757a33c629d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f2e07552a1309d3a4ce85757a33c629d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/ce4edc1f892216ee459043634884848f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/ce4edc1f892216ee459043634884848f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/dc903f553d1a1f3fdcb22645045b4112/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/dc903f553d1a1f3fdcb22645045b4112/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/79d551c6437db8fb92134943fafbad71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/79d551c6437db8fb92134943fafbad71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c56f521b6ac219181a813803b9f1796c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c56f521b6ac219181a813803b9f1796c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/58060dbf46f4b6b7ebc31625b1b76e1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/58060dbf46f4b6b7ebc31625b1b76e1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/bb8a4ac44b9b98f0ba09b04a57937f56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/bb8a4ac44b9b98f0ba09b04a57937f56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/aa622973089fdcc47e6d9e4a3bf712f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/aa622973089fdcc47e6d9e4a3bf712f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8b1a569974f8d24d094c5295afbfbe9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8b1a569974f8d24d094c5295afbfbe9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fa8f4122c5c50124bce1a24efa770629/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fa8f4122c5c50124bce1a24efa770629/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/25d7837ebec806a808a288ee6dc2add8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/25d7837ebec806a808a288ee6dc2add8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/7d9960bd8ff71b9904e7d1089dd02277/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/7d9960bd8ff71b9904e7d1089dd02277/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/492938a40566beb1c91833fbba00e205/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/492938a40566beb1c91833fbba00e205/AndroidManifest.xml:20:5-44
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+		ADDED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/varshakr/AndroidStudioProjects/Maps/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/fcb6635d6a1cec22c45a88adda251bd2/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/c8a0ce8eae0745f97b419af0187ba885/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/eccdfc72840fd79bbba68911255dddc3/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/eccdfc72840fd79bbba68911255dddc3/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/varshakr/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/eccdfc72840fd79bbba68911255dddc3/AndroidManifest.xml:24:13-58
